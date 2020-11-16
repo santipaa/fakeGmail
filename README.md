@@ -5,6 +5,8 @@ fakeGmail es un script para para enviar gmail falsos (estos gmail tal vez vallan
 
 instalacion
 
+git clone https://github.com/santipaa/fakeGmail
+
 chmod +x fakeGmail.sh
 
 ./fakeGmail.sh
